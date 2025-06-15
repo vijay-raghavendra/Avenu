@@ -1,0 +1,20 @@
+# Node.js
+frontend/node_modules/
+frontend/.env
+
+# Python
+backend/__pycache__/
+backend/.env
+
+# Editor settings
+.vscode/
+*.pyc
+
+# Docker
+*.log
+*.pid
+*.tar
+
+# OS-specific
+.DS_Store
+Thumbs.db
