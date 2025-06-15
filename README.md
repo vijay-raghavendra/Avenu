@@ -9,7 +9,22 @@ This is a full-stack assignment project that includes:
 
 ## 🏗️ Folder Structure
 
-<pre> <code> ## 🏗️ Folder Structure ``` root/ ├── backend/ │ ├── app.py │ ├── requirements.txt │ └── Dockerfile ├── frontend/ │ ├── src/ │ │ ├── index.js │ │ └── form.html │ ├── package.json │ └── Dockerfile ├── docker-compose.yml └── .gitignore ``` </code> </pre>
+```
+root/
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   └── Dockerfile
+├── frontend/
+│   ├── src/
+│   │   ├── index.js
+│   │   └── form.html
+│   ├── package.json
+│   └── Dockerfile
+├── docker-compose.yml
+└── .gitignore
+```
+
 
 
 ## 🐳 Docker Hub Images
